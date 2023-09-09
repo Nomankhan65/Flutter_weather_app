@@ -1,16 +1,4 @@
-# weather
+#Flutter Weather App for Android Ios and Web using API,
 
-A new Flutter project.
+ ![weather](https://github.com/Nomankhan65/Flutter_weather_app/assets/139708603/dca9391e-f7f4-48ec-aced-b40fdcaa7c70)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
